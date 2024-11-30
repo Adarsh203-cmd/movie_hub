@@ -56,10 +56,17 @@ Ensure you have the following installed:
 
 6. Access the application at:
    ```bash
-   http://127.0.0.1:8000
+   http://127.0.0.1:8000/
    ```
 
 ## API Endpoints
+
+## API Testing with Postman
+
+After deploying the app, you can test the API endpoints using **Postman**.
+
+- **Install Postman**: Download it from [Postman Download](https://www.postman.com/downloads/).
+- **Test Endpoints**: Use Postman to make requests to your API endpoints.
 
 ### Movies
 - **GET** `/movies/`: Retrieve a list of all movies (supports pagination and filters).
