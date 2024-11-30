@@ -1,0 +1,178 @@
+{
+  "genres": [
+    { "genre_name": "Action" },
+    { "genre_name": "Comedy" },
+    { "genre_name": "Drama" },
+    { "genre_name": "Thriller" },
+    { "genre_name": "Romance" },
+    { "genre_name": "Horror" },
+    { "genre_name": "Adventure" },
+    { "genre_name": "Sci-Fi" },
+    { "genre_name": "Fantasy" }
+  ],
+"persons": [
+    { "full_name": "Shah Rukh Khan", "role_type": "Actor" },
+    { "full_name": "Amitabh Bachchan", "role_type": "Actor" },
+    { "full_name": "Ranbir Kapoor", "role_type": "Actor" },
+    { "full_name": "Deepika Padukone", "role_type": "Actor" },
+    { "full_name": "Priyanka Chopra", "role_type": "Actor" },
+    { "full_name": "Katrina Kaif", "role_type": "Actor" },
+    { "full_name": "Alia Bhatt", "role_type": "Actor" },
+    { "full_name": "Kareena Kapoor", "role_type": "Actor" },
+    { "full_name": "Salman Khan", "role_type": "Actor" },
+    { "full_name": "Aamir Khan", "role_type": "Actor" },
+    { "full_name": "Leonardo DiCaprio", "role_type": "Actor" },
+    { "full_name": "Brad Pitt", "role_type": "Actor" },
+    { "full_name": "Scarlett Johansson", "role_type": "Actor" },
+    { "full_name": "Tom Hanks", "role_type": "Actor" },
+    { "full_name": "Meryl Streep", "role_type": "Actor" },
+    { "full_name": "Will Smith", "role_type": "Actor" },
+    { "full_name": "Emma Watson", "role_type": "Actor" },
+    { "full_name": "Robert Downey Jr.", "role_type": "Actor" },
+    { "full_name": "Angelina Jolie", "role_type": "Actor" },
+    { "full_name": "Tom Cruise", "role_type": "Actor" },
+    { "full_name": "Simon Pegg", "role_type": "Actor" },
+    { "full_name": "Henry Cavill", "role_type": "Actor" },
+    { "full_name": "Jaden Smith", "role_type": "Actor" },
+    { "full_name": "Joseph Gordon-Levitt", "role_type": "Actor" },
+    { "full_name": "Ellen Page", "role_type": "Actor" },
+    { "full_name": "Edward Norton", "role_type": "Actor" },
+    { "full_name": "Helena Bonham Carter", "role_type": "Actor" },
+    { "full_name": "Kajol", "role_type": "Actor" },
+    { "full_name": "Gracy Singh", "role_type": "Actor" },
+    { "full_name": "Ranveer Singh", "role_type": "Actor" },
+    { "full_name": "Chris Evans", "role_type": "Actor" },
+    { "full_name": "Mark Ruffalo", "role_type": "Actor" },
+    { "full_name": "Christian Bale", "role_type": "Actor" },
+    { "full_name": "Heath Ledger", "role_type": "Actor" },
+    { "full_name": "Aaron Eckhart", "role_type": "Actor" },
+    { "full_name": "R. Madhavan", "role_type": "Actor" },
+    { "full_name": "Sharman Joshi", "role_type": "Actor" },
+    { "full_name": "Hrithik Roshan", "role_type": "Actor" },
+    { "full_name": "Farhan Akhtar", "role_type": "Actor" },
+    { "full_name": "Abhay Deol", "role_type": "Actor" },
+    { "full_name": "Dharmendra", "role_type": "Actor" },
+    { "full_name": "Hema Malini", "role_type": "Actor" },
+    { "full_name": "Christopher Nolan", "role_type": "Director" },
+    { "full_name": "Steven Spielberg", "role_type": "Director" },
+    { "full_name": "Martin Scorsese", "role_type": "Director" },
+    { "full_name": "James Cameron", "role_type": "Director" },
+    { "full_name": "Quentin Tarantino", "role_type": "Director" },
+    { "full_name": "Ridley Scott", "role_type": "Director" },
+    { "full_name": "Zoya Akhtar", "role_type": "Director" },
+    { "full_name": "Kabir Khan", "role_type": "Director" },
+    { "full_name": "Sanjay Leela Bhansali", "role_type": "Director" },
+    { "full_name": "David Fincher", "role_type": "Director" },
+    { "full_name": "Rohit Shetty", "role_type": "Director" },
+    { "full_name": "Aditya Chopra", "role_type": "Director" },
+    { "full_name": "Ashutosh Gowariker", "role_type": "Director" },
+    { "full_name": "Rajkumar Hirani", "role_type": "Director" },
+    { "full_name": "Ramesh Sippy", "role_type": "Director" },
+    { "full_name": "Christopher McQuarrie", "role_type": "Director" },
+    { "full_name": "Gabriele Muccino", "role_type": "Director" },
+    { "full_name": "Anthony Russo", "role_type": "Director" },
+    { "full_name": "Joe Russo", "role_type": "Director" }
+    
+]
+,
+  "movies": [
+    {
+      "movie_title": "Mission Impossible: Fallout",
+      "release_year": 2018,
+      "average_user_rating": 7.8,
+      "genres": ["Action", "Adventure"],
+      "associated_people": ["Tom Cruise", "Simon Pegg", "Henry Cavill", "Christopher McQuarrie"]
+    },
+    {
+      "movie_title": "The Pursuit of Happyness",
+      "release_year": 2006,
+      "average_user_rating": 8.0,
+      "genres": ["Drama"],
+      "associated_people": ["Will Smith", "Jaden Smith", "Gabriele Muccino"]
+    },
+    {
+      "movie_title": "Inception",
+      "release_year": 2010,
+      "average_user_rating": 8.8,
+      "genres": ["Action", "Sci-Fi", "Thriller"],
+      "associated_people": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page", "Christopher Nolan"]
+    },
+    {
+      "movie_title": "Fight Club",
+      "release_year": 1999,
+      "average_user_rating": 8.8,
+      "genres": ["Drama", "Thriller"],
+      "associated_people": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter", "David Fincher"]
+    },
+    {
+      "movie_title": "Dilwale Dulhania Le Jayenge",
+      "release_year": 1995,
+      "average_user_rating": 8.1,
+      "genres": ["Drama", "Romance"],
+      "associated_people": ["Shah Rukh Khan", "Kajol", "Aditya Chopra"]
+    },
+    {
+      "movie_title": "Lagaan",
+      "release_year": 2001,
+      "average_user_rating": 8.1,
+      "genres": ["Drama", "Sport"],
+      "associated_people": ["Aamir Khan", "Gracy Singh", "Ashutosh Gowariker"]
+    },
+    {
+      "movie_title": "Chennai Express",
+      "release_year": 2013,
+      "average_user_rating": 7.1,
+      "genres": ["Comedy", "Drama", "Romance"],
+      "associated_people": ["Shah Rukh Khan", "Deepika Padukone", "Rohit Shetty"]
+    },
+    {
+      "movie_title": "Bajirao Mastani",
+      "release_year": 2015,
+      "average_user_rating": 7.6,
+      "genres": ["Drama", "Romance", "History"],
+      "associated_people": ["Ranveer Singh", "Deepika Padukone", "Priyanka Chopra", "Sanjay Leela Bhansali"]
+    },
+    {
+      "movie_title": "Avengers: Endgame",
+      "release_year": 2019,
+      "average_user_rating": 8.4,
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "associated_people": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Anthony Russo", "Joe Russo"]
+    },
+    {
+      "movie_title": "The Dark Knight",
+      "release_year": 2008,
+      "average_user_rating": 9.0,
+      "genres": ["Action", "Crime", "Drama"],
+      "associated_people": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Christopher Nolan"]
+    },
+    {
+      "movie_title": "3 Idiots",
+      "release_year": 2009,
+      "average_user_rating": 8.4,
+      "genres": ["Comedy", "Drama"],
+      "associated_people": ["Aamir Khan", "R. Madhavan", "Sharman Joshi", "Rajkumar Hirani"]
+    },
+    {
+      "movie_title": "Zindagi Na Milegi Dobara",
+      "release_year": 2011,
+      "average_user_rating": 8.1,
+      "genres": ["Comedy", "Drama", "Romance"],
+      "associated_people": ["Hrithik Roshan", "Farhan Akhtar", "Abhay Deol", "Zoya Akhtar"]
+    },
+    {
+      "movie_title": "Sholay",
+      "release_year": 1975,
+      "average_user_rating": 8.2,
+      "genres": ["Action", "Drama", "Adventure"],
+      "associated_people": ["Amitabh Bachchan", "Dharmendra", "Hema Malini", "Ramesh Sippy"]
+    },
+    {
+      "movie_title": "Gully Boy",
+      "release_year": 2019,
+      "average_user_rating": 8.0,
+      "genres": ["Drama", "Music"],
+      "associated_people": ["Ranveer Singh", "Alia Bhatt", "Zoya Akhtar"]
+    }
+  ]
+}
