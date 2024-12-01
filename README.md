@@ -127,3 +127,32 @@ POST /movies/
 }
 ```
 
+### Get movies with filtering
+```bash
+GET /movies/?search=The%20Matrix%20Reloaded
+ or
+GET /movies/?genres=2,3&associated_people=1,2,3
+```
+
+### Fetch a single movie by ID
+ ```bash
+ GET /movies/{movie_id}/
+ ```
+
+ ### Update a Movie
+ ```bash
+ PUT /movies/{movie_id}/
+{
+    "movie_title": "The Matrix Reloaded",
+    "release_year": 2003,
+    "average_user_rating": 7.2,
+    "genres": [1, 3],
+    "associated_people": [1, 2, 3]
+}
+```
+
+### Delete an Actor
+```bash
+POST /actors/1/delete/
+```
+
