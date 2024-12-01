@@ -73,7 +73,6 @@ After deploying the app, you can test the API endpoints using **Postman**.
 - **POST** `/movies/`: Create a new movie.
 - **GET** `/movies/{id}/`: Retrieve a movie by its ID.
 - **PUT** `/movies/{id}/`: Update a movie's details.
-- **DELETE** `/movies/{id}/`: Delete a movie.
 
 ### People (Actors, Directors, Technicians)
 - **POST** `/actors/{id}/delete/`: Delete an actor (if not associated with any movies).
@@ -128,5 +127,3 @@ POST /movies/
 }
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
