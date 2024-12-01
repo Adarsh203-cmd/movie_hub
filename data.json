@@ -71,7 +71,11 @@
     { "full_name": "Christopher McQuarrie", "role_type": "Director" },
     { "full_name": "Gabriele Muccino", "role_type": "Director" },
     { "full_name": "Anthony Russo", "role_type": "Director" },
-    { "full_name": "Joe Russo", "role_type": "Director" }
+    { "full_name": "Joe Russo", "role_type": "Director" },
+    { "full_name": "Leonardo DiCaprio", "role_type": "Actor" },
+    { "full_name": "Margot Robbie", "role_type": "Actor" }
+
+
     
 ]
 ,
